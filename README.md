@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VyacheslavDef)](https://github.com/anuraghazra/github-readme-stats)
 
-My stack:
+<h3>My stack:</h3>
 <a href="">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" color="red" alt="c">
 </a>
