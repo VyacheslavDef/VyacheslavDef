@@ -1,5 +1,5 @@
 <h1 alight='center'>Hello World! I'm Vyacheslav</h1>
-<h3>FrontEnd разработчик</h3>
+<h3>Frontend developer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VyacheslavDef)](https://github.com/anuraghazra/github-readme-stats)
 
